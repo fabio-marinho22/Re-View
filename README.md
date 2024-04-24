@@ -1,5 +1,3 @@
-Com base no trecho de código que você compartilhou e nas práticas recomendadas implementadas, descreveria o projeto da seguinte maneira:
-
 O projeto é uma aplicação web construída utilizando Node.js com o framework Express.js. Ele segue as melhores práticas de desenvolvimento web, incluindo segurança, gerenciamento de sessão, autenticação de usuário e manipulação de dados com o banco de dados MongoDB usando Mongoose.
 
 A aplicação inclui as seguintes funcionalidades e características:
